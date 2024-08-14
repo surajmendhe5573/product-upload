@@ -39,7 +39,6 @@ The request must be sent as `form-data` and include the following fields:
 
 ### Description
 Retrieves a list of all products from the database.
-##  Retrieve All Products
 ### Product 
 - **URL:** `http://localhost:5000/api/products`
 - **Method:** `GET`
