@@ -88,4 +88,4 @@ Create a `.env` file in the root directory of your project and add your environm
 **Example `.env` file:**
 ```env
 MONGO_URI= mongodb://localhost:27017/defaultdb
-PORT= 3000
+PORT= 5000
